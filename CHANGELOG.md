@@ -1,3 +1,160 @@
+# 📦 lymah123/docs changelog
+
+[![conventional commits](https://img.shields.io/badge/conventional%20commits-1.0.0-yellow.svg)](https://conventionalcommits.org)
+[![semantic versioning](https://img.shields.io/badge/semantic%20versioning-2.0.0-green.svg)](https://semver.org)
+
+> All notable changes to this project will be documented in this file
+
+## 1.0.0 (2024-03-30)
+
+
+### Features
+
+* 100 days of oss ([#99](https://github.com/Lymah123/docs/issues/99)) ([cc922e4](https://github.com/Lymah123/docs/commit/cc922e44ab85028773a0b2aeb31f9d3ce8adf134))
+* Add a Contributors guide ([#229](https://github.com/Lymah123/docs/issues/229)) ([ec79f59](https://github.com/Lymah123/docs/commit/ec79f5901d3df35612b6814b23ada2d213b0d6a5))
+* add algolia search functionality to docs ([#196](https://github.com/Lymah123/docs/issues/196)) ([4a2dd05](https://github.com/Lymah123/docs/commit/4a2dd0523cc2b3131a2a3b28f0ca31a546d2ffd8))
+* add better open sauced asset branding ([#46](https://github.com/Lymah123/docs/issues/46)) ([2902366](https://github.com/Lymah123/docs/commit/290236662e31ec2ffbdd2ab7016845ab8ba67f04)), closes [#32](https://github.com/Lymah123/docs/issues/32)
+* add chrome extension intro and usage to docs ([#78](https://github.com/Lymah123/docs/issues/78)) ([3597a93](https://github.com/Lymah123/docs/commit/3597a939d9e93f4c3ce59da504796270bf63ebd0))
+* Add Community docs ([#96](https://github.com/Lymah123/docs/issues/96)) ([1efb238](https://github.com/Lymah123/docs/commit/1efb238e0b138685e91f559d9983974c9c51b4ec))
+* add Connections feature page ([#191](https://github.com/Lymah123/docs/issues/191)) ([d887897](https://github.com/Lymah123/docs/commit/d887897070cbe6f619ee57f948acc57a67167370))
+* add explainer page about PR velocity ([#151](https://github.com/Lymah123/docs/issues/151)) ([619574f](https://github.com/Lymah123/docs/commit/619574f6a865bf8b713d3a507bc94e2dd063b26b))
+* Add FAQ section to Contributing Guide  ([#103](https://github.com/Lymah123/docs/issues/103)) ([b534680](https://github.com/Lymah123/docs/commit/b5346800056c3e30745b3c248d053a29bd2ea31a))
+* Add gifs showing extension ([#89](https://github.com/Lymah123/docs/issues/89)) ([006bef8](https://github.com/Lymah123/docs/commit/006bef8bb11fab9bf82855dcc32c93472c01c08c))
+* add link to public calendar ([#218](https://github.com/Lymah123/docs/issues/218)) ([e8a0da5](https://github.com/Lymah123/docs/commit/e8a0da5f990ade7f9d8f214babe9be559b854f70))
+* Add lists to docs ([#193](https://github.com/Lymah123/docs/issues/193)) ([ceb5af5](https://github.com/Lymah123/docs/commit/ceb5af517c23446ba025403374275a1fe527cf72))
+* add maintainer docs ([#12](https://github.com/Lymah123/docs/issues/12)) ([d215c75](https://github.com/Lymah123/docs/commit/d215c75b0326f21a186c54df130d89234ca4f6cc)), closes [#5](https://github.com/Lymah123/docs/issues/5)
+* Add maintainers guide section ([#205](https://github.com/Lymah123/docs/issues/205)) ([d5ba31e](https://github.com/Lymah123/docs/commit/d5ba31e63ffec508e3273731dff4a3ec60255f98))
+* Add maintainers-guide ([#177](https://github.com/Lymah123/docs/issues/177)) ([e4e2dab](https://github.com/Lymah123/docs/commit/e4e2dabe232b8f87192abd8973b858dcfdf6ffda))
+* add missing contributing docs ([#20](https://github.com/Lymah123/docs/issues/20)) ([a4465e6](https://github.com/Lymah123/docs/commit/a4465e6f44c1bf95624333cdc7f1de912a0b4808)), closes [#11](https://github.com/Lymah123/docs/issues/11)
+* add more descriptions for using the chrome extension page ([#116](https://github.com/Lymah123/docs/issues/116)) ([442ae78](https://github.com/Lymah123/docs/commit/442ae782972fe0502efd0be82ba1da15dfb71395))
+* add release workflow ([#1](https://github.com/Lymah123/docs/issues/1)) ([c1635a4](https://github.com/Lymah123/docs/commit/c1635a47514808bd5d600b99437b9039aea96c49))
+* Add student guide ([#283](https://github.com/Lymah123/docs/issues/283)) ([eb591fd](https://github.com/Lymah123/docs/commit/eb591fdf7aec5b31d3c1f18b88060c759a0f4815))
+* add users docs about highlights ([#100](https://github.com/Lymah123/docs/issues/100)) ([17dd7fd](https://github.com/Lymah123/docs/commit/17dd7fdf4ef666a5803d2c35ef24527e3abda924))
+* Add workspaces documentation ([#255](https://github.com/Lymah123/docs/issues/255)) ([103fda2](https://github.com/Lymah123/docs/commit/103fda209d0ed778db2e6534d8df17a62ffd1f3b))
+* Added new Favicon ([#75](https://github.com/Lymah123/docs/issues/75)) ([ad351ca](https://github.com/Lymah123/docs/commit/ad351ca17c79ee4e7e186103985075b257fa34fe)), closes [#65](https://github.com/Lymah123/docs/issues/65)
+* adding job seekers guide ([#221](https://github.com/Lymah123/docs/issues/221)) ([8f8f1d5](https://github.com/Lymah123/docs/commit/8f8f1d53fa73c62c704b040b8475c25ac87ae927))
+* adding page about hacktoberfest ([#179](https://github.com/Lymah123/docs/issues/179)) ([d9cedb7](https://github.com/Lymah123/docs/commit/d9cedb74451fa95950807634d7eedeb5ca3ff9f4))
+* Adding subfolders to the using section for Chrome Extension ([#123](https://github.com/Lymah123/docs/issues/123)) ([a785c55](https://github.com/Lymah123/docs/commit/a785c5593b9a27099878717489a09ba4c5b8e702))
+* adds glossary  ([#212](https://github.com/Lymah123/docs/issues/212)) ([70f7925](https://github.com/Lymah123/docs/commit/70f79255f2af71783686fda8068bfa73c6929ac9))
+* Adds image and instructions on how to get DevCard page ([#234](https://github.com/Lymah123/docs/issues/234)) ([b358c27](https://github.com/Lymah123/docs/commit/b358c277eaf1de543f066e2143eae048344026f1))
+* Adds info on adding teammates to the insights page ([#230](https://github.com/Lymah123/docs/issues/230)) ([d6b4681](https://github.com/Lymah123/docs/commit/d6b46819d72515b17222ad23c080578be308bf39))
+* adds new favicons ([#58](https://github.com/Lymah123/docs/issues/58)) ([3bec3fe](https://github.com/Lymah123/docs/commit/3bec3fefe1e43f1bfe5e7e1f0fb99703edb27883)), closes [#47](https://github.com/Lymah123/docs/issues/47)
+* creating separate section for setting up repo with Git ([#192](https://github.com/Lymah123/docs/issues/192)) ([d68a086](https://github.com/Lymah123/docs/commit/d68a0863b52d8c9b8c0cee0ffe48dd1965f4ab3d))
+* expanded on `npm run push` ([#76](https://github.com/Lymah123/docs/issues/76)) ([499b5a4](https://github.com/Lymah123/docs/commit/499b5a400fd9d4defae24b8fe15cbdf7c790f204)), closes [#39](https://github.com/Lymah123/docs/issues/39)
+* explore plugin ecosystem ([#22](https://github.com/Lymah123/docs/issues/22)) ([8e14b13](https://github.com/Lymah123/docs/commit/8e14b13896a93d32ad6cb2e2b094f10b431886de)), closes [#8](https://github.com/Lymah123/docs/issues/8)
+* implement @open-sauced/check-engines ([#14](https://github.com/Lymah123/docs/issues/14)) ([2a787ff](https://github.com/Lymah123/docs/commit/2a787ff82b7ba7c77544f5d5e8d4652541aa7131))
+* implement @open-sauced/conventional commit ([#28](https://github.com/Lymah123/docs/issues/28)) ([b79ddee](https://github.com/Lymah123/docs/commit/b79ddee3cb2a6f63a463c2ce5ccdafb5b72f2ff0)), closes [#25](https://github.com/Lymah123/docs/issues/25)
+* push initial commit ([16304a7](https://github.com/Lymah123/docs/commit/16304a7e7bc9c42272e45767b410c924480100e3))
+* re-add algolia search ([#9](https://github.com/Lymah123/docs/issues/9)) ([0d8baae](https://github.com/Lymah123/docs/commit/0d8baaeebd89f5a3090c260ccbb7c9594654c6a9)), closes [#2](https://github.com/Lymah123/docs/issues/2)
+* rearranges sections for easy consumption ([#118](https://github.com/Lymah123/docs/issues/118)) ([257a44c](https://github.com/Lymah123/docs/commit/257a44cb9e9a21f2ad5c0aca297a5ae33ae1ca9d))
+* removes outdated open-sauced docs ([#86](https://github.com/Lymah123/docs/issues/86)) ([8a31879](https://github.com/Lymah123/docs/commit/8a31879f4d0975baca3c8cb744cdfd90dd41bede))
+* Reorganize docs ([#201](https://github.com/Lymah123/docs/issues/201)) ([dc12081](https://github.com/Lymah123/docs/commit/dc120815281b018a5ec5038a07f8a2c532738225))
+* replace intro image and link ([#73](https://github.com/Lymah123/docs/issues/73)) ([b7b1e30](https://github.com/Lymah123/docs/commit/b7b1e30e5bfbdbd410f4b20a268d4c2b71dd9819))
+* terminology added ([#184](https://github.com/Lymah123/docs/issues/184)) ([c3fcfc8](https://github.com/Lymah123/docs/commit/c3fcfc8fc908708339c3e3ca7a58cd40b2b8892a))
+* Update API docs to v2 ([#239](https://github.com/Lymah123/docs/issues/239)) ([de93e7a](https://github.com/Lymah123/docs/commit/de93e7a940c62a2dfdce4d9fe8406117d5b46f57))
+* update docs to be more specific and reflect current features ([#155](https://github.com/Lymah123/docs/issues/155)) ([45abbf7](https://github.com/Lymah123/docs/commit/45abbf726e8dfac8b8e230b0dcf84751b9c96035))
+* Update logo in header nav to new logo ([#55](https://github.com/Lymah123/docs/issues/55)) ([1c75731](https://github.com/Lymah123/docs/commit/1c75731337c1d7357c689539fd9a2f28ad8a2f44))
+* Update logo.svg Feature: Update Favicon to Pizza [#80](https://github.com/Lymah123/docs/issues/80) ([#82](https://github.com/Lymah123/docs/issues/82)) ([dc406ef](https://github.com/Lymah123/docs/commit/dc406efe27d4969ee1c7f6c18389ba272d732f44))
+* update project documentation with SEO keywords ([#237](https://github.com/Lymah123/docs/issues/237)) ([664cc7f](https://github.com/Lymah123/docs/commit/664cc7f0edd23db9688bbc32044c00498e4e2581))
+* Update sidebar with new sections ([#217](https://github.com/Lymah123/docs/issues/217)) ([20f4dfe](https://github.com/Lymah123/docs/commit/20f4dfe8abc2bea0b5f4463e15c8f9d2de25e4d9))
+* update workspace with more information on team plan ([#272](https://github.com/Lymah123/docs/issues/272)) ([2a82913](https://github.com/Lymah123/docs/commit/2a82913a1405875fd560cd24c22e22879f6f119d))
+
+
+### Bug Fixes
+
+* add missing config minor ([#19](https://github.com/Lymah123/docs/issues/19)) ([8fb7a03](https://github.com/Lymah123/docs/commit/8fb7a03677ae5e4955c66004de2ea01170ff3366))
+* add missing spaces in faq ([#115](https://github.com/Lymah123/docs/issues/115)) ([b2dc854](https://github.com/Lymah123/docs/commit/b2dc854402b06578f2a86faba85568ff588a024b))
+* add parallel structure ([#175](https://github.com/Lymah123/docs/issues/175)) ([c50e6ba](https://github.com/Lymah123/docs/commit/c50e6ba4cc27949a6f397dd970dcf516d36a06af))
+* add private repo note ([65172a8](https://github.com/Lymah123/docs/commit/65172a85d8ef810541c921cb26b4a1c52226b65c))
+* build error ([#240](https://github.com/Lymah123/docs/issues/240)) ([6f602a5](https://github.com/Lymah123/docs/commit/6f602a56ad2feff50b44ca816bbf59abf0b692b7))
+* Change title and sidebar ([#187](https://github.com/Lymah123/docs/issues/187)) ([ceb3d0f](https://github.com/Lymah123/docs/commit/ceb3d0f8e4e575d6314ee3919261467f0d812403))
+* correct ci development flow ([0434010](https://github.com/Lymah123/docs/commit/04340102dec0995cfc2b1fdea356ed6e98c3e6d2))
+* correct docker deploy variables ([#17](https://github.com/Lymah123/docs/issues/17)) ([db0b965](https://github.com/Lymah123/docs/commit/db0b96579e201cb1c94edbb6bfb55247126823f2))
+* correct node 17 webpack security concerns and audit fix ([22d2ea5](https://github.com/Lymah123/docs/commit/22d2ea5d94f23ae5e6e383fd011c84fd9a2d4754))
+* correct npm install in docker container ([#23](https://github.com/Lymah123/docs/issues/23)) ([7d08e18](https://github.com/Lymah123/docs/commit/7d08e183d16e1687e12dfeeaa4b4bc654e044f13))
+* Correct typo in resolve-merge-conflicts.md ([#128](https://github.com/Lymah123/docs/issues/128)) ([72f3b45](https://github.com/Lymah123/docs/commit/72f3b45faa0fd2378350230616d181a8ab66e696))
+* Documentation Link Misdirection ([#148](https://github.com/Lymah123/docs/issues/148)) ([180b032](https://github.com/Lymah123/docs/commit/180b0324dea21520e55da9afcd5dcd5b9fcd0d77))
+* failed build from "OpenSauced Maintainers Guides" ([#247](https://github.com/Lymah123/docs/issues/247)) ([bec1ab7](https://github.com/Lymah123/docs/commit/bec1ab7f1bc336e29138ee2b1d264dd7e6e41e97))
+* fix broken links ([#141](https://github.com/Lymah123/docs/issues/141)) ([81f27b9](https://github.com/Lymah123/docs/commit/81f27b9f234c430585497e96d4f03d264ca419c8))
+* format and wording adjustments in workspaces, contributors and repo insights sections ([#262](https://github.com/Lymah123/docs/issues/262)) ([37bddac](https://github.com/Lymah123/docs/commit/37bddace074327542d12d164a4b61e42303c8548))
+* highlights.md sidebar link ([9b03f41](https://github.com/Lymah123/docs/commit/9b03f418aa278a2ea656c5e62ace0d7225605638))
+* improve intro to contributing ([#63](https://github.com/Lymah123/docs/issues/63)) ([356b6ee](https://github.com/Lymah123/docs/commit/356b6ee8244088f7e2d165bd597bb6e43b4bc76a))
+* Incorrect Link Destination in Documentation ([#144](https://github.com/Lymah123/docs/issues/144)) ([c7adf37](https://github.com/Lymah123/docs/commit/c7adf375c8eff11744c55e074a82d5c48be31add))
+* Issues Section ([#269](https://github.com/Lymah123/docs/issues/269)) ([785e75a](https://github.com/Lymah123/docs/commit/785e75a3285bf73fe4a81ec9432278998122a2ab))
+* items array in OpenSauced Maintainers Guides sidebar ([#245](https://github.com/Lymah123/docs/issues/245)) ([aa0f249](https://github.com/Lymah123/docs/commit/aa0f2495a24ba12710e860033b32cdc1713c4882))
+* logo swap between light mode and dark mode ([#57](https://github.com/Lymah123/docs/issues/57)) ([ad3af5d](https://github.com/Lymah123/docs/commit/ad3af5db0df633ccea52aa992bfed25883df4093))
+* re-add footer logo ([972edfc](https://github.com/Lymah123/docs/commit/972edfc4eb9ad582636851b4b5cd42a0377d11f9))
+* remove storybook id from sidebar file ([#231](https://github.com/Lymah123/docs/issues/231)) ([f14b184](https://github.com/Lymah123/docs/commit/f14b1844575775f1dcabf0c8f1363f836dbb4a76))
+* Renamed open sauced to OpenSauced ([#90](https://github.com/Lymah123/docs/issues/90)) ([adc093c](https://github.com/Lymah123/docs/commit/adc093c531c4964cb5a2b0a824f3213071ecf915))
+* Revert "docs: add Community Maintainers Guidelines" ([#244](https://github.com/Lymah123/docs/issues/244)) ([21c3fcf](https://github.com/Lymah123/docs/commit/21c3fcfcc754bef8e7a6bdf5dffc474ce0b7f0bc)), closes [#243](https://github.com/Lymah123/docs/issues/243)
+* Revert "fix: items array in OpenSauced Maintainers Guides sidebar" ([#246](https://github.com/Lymah123/docs/issues/246)) ([bd9dfd1](https://github.com/Lymah123/docs/commit/bd9dfd14cda5cab91beb928860b123d48196026a)), closes [#245](https://github.com/Lymah123/docs/issues/245)
+* revise  markdown errors ([#107](https://github.com/Lymah123/docs/issues/107)) ([637d735](https://github.com/Lymah123/docs/commit/637d735cc6489791d60512d7849b6ab1f23417bc))
+* simplified the merge conflicts section ([#232](https://github.com/Lymah123/docs/issues/232)) ([6ce00fa](https://github.com/Lymah123/docs/commit/6ce00fadc0ec9c219242a40c791ad3593c9c01d9))
+* text to be more concise [#160](https://github.com/Lymah123/docs/issues/160) ([#161](https://github.com/Lymah123/docs/issues/161)) ([18993ab](https://github.com/Lymah123/docs/commit/18993abd2225a03d54512bf3ebf0a004a2ec8920))
+* the gif ([#149](https://github.com/Lymah123/docs/issues/149)) ([c4d8a1e](https://github.com/Lymah123/docs/commit/c4d8a1e79a7083222dc05aaab99009c8668840d3))
+* triage.yml ([#67](https://github.com/Lymah123/docs/issues/67)) ([b23cbf0](https://github.com/Lymah123/docs/commit/b23cbf04b8640ad2f543af7731dba974e94edba1))
+* update dead contributing link in readme ([#15](https://github.com/Lymah123/docs/issues/15)) ([dd11c65](https://github.com/Lymah123/docs/commit/dd11c65ff064289f240dccf0c1d437163f3298ba)), closes [#13](https://github.com/Lymah123/docs/issues/13)
+* Update docs for 100 days of oss ([#271](https://github.com/Lymah123/docs/issues/271)) ([0a7f9aa](https://github.com/Lymah123/docs/commit/0a7f9aaa610e48b399775bcb1ac39c94caaf7f3c))
+* Update Highlights page to fix broken path and provide more information. ([#164](https://github.com/Lymah123/docs/issues/164)) ([e0aab72](https://github.com/Lymah123/docs/commit/e0aab7279797dbcbec449dcc63cdaa3de5c84a1e))
+* Update license language in contributing guide ([#152](https://github.com/Lymah123/docs/issues/152)) ([49539e8](https://github.com/Lymah123/docs/commit/49539e8b91fbf4c15f94aee40208a0e6fac76158))
+* update node  and npm versions ([#180](https://github.com/Lymah123/docs/issues/180)) ([f35a4c7](https://github.com/Lymah123/docs/commit/f35a4c78f781c886877ca297899bfc33e312d339))
+* Update project-utilities.md browser-extensions mention to ai  ([#88](https://github.com/Lymah123/docs/issues/88)) ([4ab5656](https://github.com/Lymah123/docs/commit/4ab5656a6cb740dd51e4b360234607453cdecd01))
+* update workspace images based on latest UI ([#277](https://github.com/Lymah123/docs/issues/277)) ([12c8ffd](https://github.com/Lymah123/docs/commit/12c8ffdb69c36a74b073c1fe594c9adc3d6206e4))
+* update youtube link on docs ([#121](https://github.com/Lymah123/docs/issues/121)) ([7e3b8bd](https://github.com/Lymah123/docs/commit/7e3b8bd646df0d460ce4def3443f1b3a709353d4))
+* updated link to PR Velocity  ([#220](https://github.com/Lymah123/docs/issues/220)) ([fb5adec](https://github.com/Lymah123/docs/commit/fb5adec5998138815f43be71a63ce4ea9241562a))
+* workaround license check by adding license ([#35](https://github.com/Lymah123/docs/issues/35)) ([f0abac6](https://github.com/Lymah123/docs/commit/f0abac63fd257e1b588ad285e3b628c055f73326))
+* workflow.yml ([#162](https://github.com/Lymah123/docs/issues/162)) ([05cb60f](https://github.com/Lymah123/docs/commit/05cb60f562247e54c3fa72812ccee9ad59e726c7))
+
+
+### Code Refactoring
+
+* update minor deps and clean up ([7dcbe97](https://github.com/Lymah123/docs/commit/7dcbe979db59a6c8d4fc697ee30825ae5fe1d8c9))
+
+
+### Build System
+
+* add dependabot missing minors ([#16](https://github.com/Lymah123/docs/issues/16)) ([338a418](https://github.com/Lymah123/docs/commit/338a418e50cb9cab2cbf66fb56ba54edef198287))
+
+
+### Continuous Integration
+
+* add docusaurus-prince-pdf generation ([#24](https://github.com/Lymah123/docs/issues/24)) ([8d4bacf](https://github.com/Lymah123/docs/commit/8d4bacfed0300352b86bfd2cde17464b5682cd79))
+* add open-sauced triage wonkflows ([#10](https://github.com/Lymah123/docs/issues/10)) ([dfb508a](https://github.com/Lymah123/docs/commit/dfb508a0254ee7cc5f83e453f8d33332f68eba11))
+* correct docker deploy variables ([#18](https://github.com/Lymah123/docs/issues/18)) ([71caaa1](https://github.com/Lymah123/docs/commit/71caaa1b08ed91f5544f5f27c38067fc481ce293))
+* correct dockerfile build for ghcr ([804ed80](https://github.com/Lymah123/docs/commit/804ed801d539266b64a3f46d54e630b8d9ea66f2))
+
+
+### Documentation
+
+* add authentication section ([#62](https://github.com/Lymah123/docs/issues/62)) ([26f8511](https://github.com/Lymah123/docs/commit/26f8511db772be3a9bb16887d46b3daf27537d6c))
+* add Community Maintainers Guidelines ([#243](https://github.com/Lymah123/docs/issues/243)) ([67f3118](https://github.com/Lymah123/docs/commit/67f3118e918a3d1483be9852b78537ba783ceba6))
+* Add events ([#119](https://github.com/Lymah123/docs/issues/119)) ([577efe1](https://github.com/Lymah123/docs/commit/577efe1d83992f51063f7bbcdd442af970ea4f3e))
+* add head metadata ([#59](https://github.com/Lymah123/docs/issues/59)) ([df4b7e0](https://github.com/Lymah123/docs/commit/df4b7e0410c7df5021c980c04050c5571c37d25a)), closes [#45](https://github.com/Lymah123/docs/issues/45)
+* Add information about PR with unassigned issue to the contributing guidelines ([#252](https://github.com/Lymah123/docs/issues/252)) ([4ccd758](https://github.com/Lymah123/docs/commit/4ccd758485474b44a793fbc9242b0161ae4eaf40)), closes [#251](https://github.com/Lymah123/docs/issues/251) [#251](https://github.com/Lymah123/docs/issues/251)
+* add lint section to intro to contributing ([#66](https://github.com/Lymah123/docs/issues/66)) ([b427242](https://github.com/Lymah123/docs/commit/b4272424c11ad9456a4710a369b70a00a9ef65f0))
+* add release docs for open-sauced/conventional-commit ([#27](https://github.com/Lymah123/docs/issues/27)) ([0937830](https://github.com/Lymah123/docs/commit/09378306f3a0c2d7d63a60fd9fd0164917a70801)), closes [#26](https://github.com/Lymah123/docs/issues/26) [#30](https://github.com/Lymah123/docs/issues/30) [#31](https://github.com/Lymah123/docs/issues/31)
+* Add section on workspaces to maintainers guide ([#279](https://github.com/Lymah123/docs/issues/279)) ([c0fe6b9](https://github.com/Lymah123/docs/commit/c0fe6b96869d88dff8205c05f32f754679ebc457))
+* Add Team Sync instructions to FAQs ([#207](https://github.com/Lymah123/docs/issues/207)) ([eb940a1](https://github.com/Lymah123/docs/commit/eb940a12631ed1061678d6db47cd116a837a83b8))
+* Added extension-utilities-docs ([#83](https://github.com/Lymah123/docs/issues/83)) ([148c0ee](https://github.com/Lymah123/docs/commit/148c0ee5c84a0fc2cdc5aee2e235d56c62c4072f))
+* Added PR review menu docs ([#98](https://github.com/Lymah123/docs/issues/98)) ([a88e3a9](https://github.com/Lymah123/docs/commit/a88e3a96bf3a083099b35596300030dad621b5e4))
+* adding a gif of doing a highlight on the website ([#137](https://github.com/Lymah123/docs/issues/137)) ([0a9d371](https://github.com/Lymah123/docs/commit/0a9d371e31684315852614a563657a60e98091b7))
+* adding an explainer page and GIF on insight pages   ([#138](https://github.com/Lymah123/docs/issues/138)) ([b957398](https://github.com/Lymah123/docs/commit/b957398cf5c3b98546724a87da99b2f932510b17))
+* adding explainer page about Dev card ([#158](https://github.com/Lymah123/docs/issues/158)) ([4d48443](https://github.com/Lymah123/docs/commit/4d48443321c657bdd49289bebf2ba55af6974667))
+* adding section for the Hot OpenSauced Project ([#197](https://github.com/Lymah123/docs/issues/197)) ([4555cb8](https://github.com/Lymah123/docs/commit/4555cb8bfff265a0704e419c1f3ae9e30535f810))
+* Adding Testing JavaScript link ([#40](https://github.com/Lymah123/docs/issues/40)) ([3055bcb](https://github.com/Lymah123/docs/commit/3055bcb6ddab0a16b3f49793187f6f3c6cf7ff0d)), closes [#37](https://github.com/Lymah123/docs/issues/37)
+* apply markdown formatting magic ([fa7ed0e](https://github.com/Lymah123/docs/commit/fa7ed0e62daffeb5919c8e1351001314591149e2))
+* correct contributing link ([#34](https://github.com/Lymah123/docs/issues/34)) ([5664e61](https://github.com/Lymah123/docs/commit/5664e612ae3dd427b61375bbac975fd83d8d06ea)), closes [#33](https://github.com/Lymah123/docs/issues/33)
+* fix some sentences in the "Welcome to the Community" and "Introduction to Storybook" section for clarity  and fix some typos.  ([#130](https://github.com/Lymah123/docs/issues/130)) ([812acde](https://github.com/Lymah123/docs/commit/812acdefbc9d428a7446040106f4e0784fd0fafd)), closes [#133](https://github.com/Lymah123/docs/issues/133)
+* Project utilities hijack ([#117](https://github.com/Lymah123/docs/issues/117)) ([794b54f](https://github.com/Lymah123/docs/commit/794b54fcdea801b2f644ea489618926a42d04c25))
+* Provide Docs Feedback & Fix Markdown and Metadata for Consistency ([#213](https://github.com/Lymah123/docs/issues/213)) ([7264c3e](https://github.com/Lymah123/docs/commit/7264c3eee13417f100f2e54a311494daab44bbe0))
+* Reorganize Subsections in the Intro to Contributing ([#233](https://github.com/Lymah123/docs/issues/233)) ([935e09a](https://github.com/Lymah123/docs/commit/935e09a9ee0f82bc888187a1a35684e68ec72fa1))
+* replace url for finding good first issue ([#153](https://github.com/Lymah123/docs/issues/153)) ([d006a6c](https://github.com/Lymah123/docs/commit/d006a6c59ba3b57991418f4d9fb83a2a8a6fc23e))
+* revise information about templates ([#135](https://github.com/Lymah123/docs/issues/135)) ([321e8c9](https://github.com/Lymah123/docs/commit/321e8c9f9721e056ee4e7f1c9074cdda5fc0250c))
+* Typo fix in the Contribution docs ([#41](https://github.com/Lymah123/docs/issues/41)) ([56db201](https://github.com/Lymah123/docs/commit/56db2014de0d7abc77f61758196bcd3e3cc9bf65)), closes [#42](https://github.com/Lymah123/docs/issues/42)
+* Update 100-days-of-oss.md ([#109](https://github.com/Lymah123/docs/issues/109)) ([c57387d](https://github.com/Lymah123/docs/commit/c57387d80fa45ae291eaead7195b2d487ed9be43))
+* update github docs and static docker build ([02ffdd7](https://github.com/Lymah123/docs/commit/02ffdd73d6ae9e7c7e5bf90828c9e563d70bd549))
+* Updates docs to add mentions of `beta` ([#44](https://github.com/Lymah123/docs/issues/44)) ([97c699c](https://github.com/Lymah123/docs/commit/97c699c6a3cabef58fcdaa301ce6326fa7f0f8c2))
+
 # 📦 open-sauced/docs changelog
 
 [![conventional commits](https://img.shields.io/badge/conventional%20commits-1.0.0-yellow.svg)](https://conventionalcommits.org)
